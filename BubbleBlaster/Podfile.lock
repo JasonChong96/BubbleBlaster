@@ -1,0 +1,22 @@
+PODS:
+  - a0164721j.PhysicsEngine (0.0.2)
+
+DEPENDENCIES:
+  - a0164721j.PhysicsEngine (from `https://github.com/cs3217-1819/2019-ps4-JasonChong96.git`, branch `cocoapod`)
+
+EXTERNAL SOURCES:
+  a0164721j.PhysicsEngine:
+    :branch: cocoapod
+    :git: https://github.com/cs3217-1819/2019-ps4-JasonChong96.git
+
+CHECKOUT OPTIONS:
+  a0164721j.PhysicsEngine:
+    :commit: f809c868975f0396493dee23caaca4fb65dc0d00
+    :git: https://github.com/cs3217-1819/2019-ps4-JasonChong96.git
+
+SPEC CHECKSUMS:
+  a0164721j.PhysicsEngine: 7b86734de28a6561d748ab2b9c987c1e0df1bd5a
+
+PODFILE CHECKSUM: 98feb293173fe2297753b91b7e30e6dbb7e5e776
+
+COCOAPODS: 1.5.3

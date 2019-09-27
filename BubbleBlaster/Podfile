@@ -1,0 +1,6 @@
+platform :ios, '9.0'
+
+target 'BubbleBlaster' do
+  use_frameworks!
+  pod 'a0164721j.PhysicsEngine', :git => 'https://github.com/cs3217-1819/2019-ps4-JasonChong96.git', :branch => 'cocoapod'
+end
