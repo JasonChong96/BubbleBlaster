@@ -1,4 +1,4 @@
-CS3217 Problem Set 5
+Bubble Blaster 
 ==
 
 ### Set-up
